@@ -12,6 +12,11 @@ Run the following commands.
 ``` bash
 git clone https://github.com/virendra71072/userAuthenticationAPI.git
 cd userAuthenticationAPI
+
+Need to import database file from database folder
+Need to configure configure.development file
+Set Permission to asset folder for logger
+
 npm install;
 npm start;
 ```
