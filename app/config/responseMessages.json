@@ -1,0 +1,52 @@
+{
+    "APP_MESSAGES": {
+        "SUCCESS": {
+            "errorCode": "0",
+            "message"  : "Success"
+        },
+        "ERROR_VALIDATION": {
+            "errorCode": "101",
+            "message"  : "Validation Error"
+        },
+        "ERROR_USER_NOT_EXISTS": {
+            "errorCode": "102",
+            "message"  : "User does not exists"
+        },
+        "ERROR_USER_ALREADY_EXISTS": {
+            "errorCode": "103",
+            "message"  : "User already exists"
+        },
+        "ERROR_AUTHENTICATION": {
+            "errorCode": "104",
+            "message"  : "Authentication Failed"
+        },
+        "ERROR_NO_DATA": {
+            "errorCode": "105",
+            "message"  : "No Data Available"
+        },
+        "ERROR_SERVER_ERROR": {
+            "errorCode": "106",
+            "message"  : "Server Error"
+        },
+        "USER_NOT_FOUND": {
+            "errorCode": "107",
+            "message"   : "User data not found.",
+            "statusCode": 200
+        },
+        "INVALID_AUTH_TOKEN": {
+            "errorCode": "108",
+            "message"   : "Invalid Auth Token Exception.",
+            "statusCode": 500
+        },
+        "AUTH_TOKEN_EXPIRED": {
+            "errorCode": "109",
+            "message"   : "Auth Token Expired Exception.",
+            "statusCode": 500
+        },
+        "INVALID_CREDENTIAL": {
+            "errorCode": "107",
+            "message"   : "Invalid Credential.",
+            "statusCode": 200
+        }
+    }
+}

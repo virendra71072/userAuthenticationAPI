@@ -1,0 +1,11 @@
+package-lock.json
+node_modules/*
+app/config/config.production.json
+app/config/config.development.json
+app/config/config.uat.json
+app/config/config.staging.json
+nbproject
+yarn.lock
+app/asset/log/*
+app/asset/clientLog/*
+doc/
